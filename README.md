@@ -3,7 +3,7 @@
 This was the second assignment for the course "Artificial Intelligence" of AUEB's Informatics Department. The task we had was to implement on our own some methods and then use them to classify emails (texts) as either ham (wanted) or spam (unwanted). The algorithms we implemented were:
 * AdaBoost
 * Naive Bayes Classifier
-* Logistic Regression (using SGD to do the optimization required)
+* Logistic Regression (using SGD to do the required optimization)
 
 During this project we gainned a more in-depth understanding of the aforementioned algorithms and about other concepts such as optimization, information gain and the training-validation-testing process in machine learning.
 
